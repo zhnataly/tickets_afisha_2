@@ -1,0 +1,3 @@
+.env_tickets
+venv/
+tickets_venv/
